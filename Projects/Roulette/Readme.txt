@@ -1,0 +1,3 @@
+Roulette Game made using python...
+Python libraries used: random, os and time
+Here I've build an interactive roulette game with a welcome screen with full and clean operations
