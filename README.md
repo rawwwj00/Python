@@ -1,2 +1,2 @@
 # Python
-All the programs associated with python can be found in this repository.
+A directory with some python programs to help beginners
